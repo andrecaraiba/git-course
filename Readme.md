@@ -8,7 +8,18 @@ Repositório teste para aprender git
 
 Adicionando uma nov mensagem para testar o git diff
 
-### lembrete:
+#### lembrete:
 >> git diff name-only 
 
 Esse comando mostra em lista todos os arquivos modificados
+
+## Sobre Branchs:
+Listar branchs:
+>> git branch
+
+Criar branch:
+>>git checkout -b <branch_name>
+
+Navegar para um branch:
+>>git checkout <branch_name>
+
