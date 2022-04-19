@@ -7,5 +7,7 @@ Repositório teste para aprender git
 >> git add <nome_do_arquivo>
 
 Adicionando uma nov mensagem para testar o git diff
-#lembrete: >>git diff name-only 
-#Esse comando mostra em lista todos os arquivos modificados
+
+# lembrete:
+>> git diff name-only 
+Esse comando mostra em lista todos os arquivos modificados
