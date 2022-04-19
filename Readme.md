@@ -8,6 +8,6 @@ Repositório teste para aprender git
 
 Adicionando uma nov mensagem para testar o git diff
 
-# lembrete:
+## lembrete:
 >> git diff name-only 
 Esse comando mostra em lista todos os arquivos modificados
