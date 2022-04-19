@@ -18,8 +18,10 @@ Listar branchs:
 >> git branch
 
 Criar branch:
->>git checkout -b <branch_name>
+>> git checkout -b <branch_name>
 
 Navegar para um branch:
->>git checkout <branch_name>
+>> git checkout <branch_name>
 
+Apagar branch:
+>> git branch -D <branch_name>
